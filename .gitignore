@@ -2,3 +2,7 @@
 env.py
 __pycache__
 .~c9*
+*.png
+static/
+media/
+*.jpg
