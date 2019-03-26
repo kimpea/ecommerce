@@ -5,4 +5,4 @@ __pycache__
 *.png
 static/
 media/
-*.jpg
+*.jpgenv.py
